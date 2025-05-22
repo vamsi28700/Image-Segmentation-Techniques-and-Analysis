@@ -1,6 +1,4 @@
 # Image-Segmentation-Techniques-and-Analysis
-
-This project is done as part of the course Digital Image Processing where it discusses about the image segmentaion techniques and the analysis done on images. <br>
 Used Techniques are: <br>
 - Multiple thresholding using Otsu Method
 - K-Means Clustering
